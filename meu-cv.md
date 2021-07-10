@@ -12,6 +12,10 @@
 > [Linkedin](https://br.linkedin.com/in/diegoteles)  
 > [WebSite](https://unicorncoder.club/)
 
+
+**Sobre mim**  
+Sou formado em Análise de Sistemas e pós-graduando em IA & ML, sou nomeado MSLA pela Microsoft e Mozillian Member pela Mozilla, tenho experiências em desenvolvimento JavaScript sendo, front-end com React, NextJS e back-end com NodeJs, NestJS e outros conhecimento como SQL, noSQL, IoT e IA, crio conteúdos técnicos, palestras e co-organizo as comunidades [Unicorn Tech](https://www.meetup.com/pt-BR/UnicornTech/), [React Life](https://www.meetup.com/pt-BR/ReactLife/), [Fluter Nation](https://www.meetup.com/pt-BR/ReactLife/) e NodeRED Brasil.
+
 <div align="center" >
     <h2>Área de Interesse: <strong> Tech Lead </strong> </h2>
 </div>
