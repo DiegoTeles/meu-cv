@@ -44,7 +44,7 @@ Seguindo layout previamente desenhados por um time de UI/UX e seguindo cerimonia
 Cargo: Javascript FullStack Senior  
 Atuei em projeto de setor financeiro(corretora de cripto moedas) com as stacks: Nodejs, Reactjs, SASS e Azure Functions Serveless
 
-- Concore(Janeiro/2019 – Maio/2019)  
+- Concore(Janeiro/2019 – Junho/2019)  
  Cargo: Javascript FullStack Pleno   
  Desenvolvimento de projetos/soluções Web Front-end com ReactJS e Back-end em NodeRED. Migração dos sistemas em Angular 1.6 para ReactJS. 
 
@@ -55,5 +55,8 @@ Onde atuo trazendo conteudos e experiencias não só minhas mas também de outro
   - [Unicorn Tech](https://www.meetup.com/pt-BR/UnicornTech/) - 2908 Membros
   - [React Life](https://www.meetup.com/pt-BR/ReactLife/) - 1383 Membros
   - [Fluter Nation](https://www.meetup.com/pt-BR/ReactLife/) - 745 Membros
+
+- [Curso de JavaScript Iniciante Udemy](https://www.udemy.com/course/logica-de-programacao-com-javascript/) - 1.440 alunos  
+- [Curso de JavaScript - Microsoft Channel](https://www.youtube.com/playlist?list=PLb2HQ45KP0WsFop0pItGSUYl6baYjKEye)  
 
 Mais sobre minhas contribuições em: [MINHAS CONTRIBUIÇÕES](https://diegoteles.github.io/timeline)
