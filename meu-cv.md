@@ -21,6 +21,7 @@ Sou formado em Análise de Sistemas e pós-graduando em Arquitetura de Soluçõe
 </div>
 
 >**Qualificações e formação**
+
 - Faculdades Metropolitanas Unidas – FMU – (Formado)  
 Análise e Desenvolvimento de Sistemas  
  
