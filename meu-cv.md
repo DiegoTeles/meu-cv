@@ -16,10 +16,6 @@
 **Sobre mim**  
 Sou formado em Análise de Sistemas e pós-graduando em Arquitetura de Soluções pela PUC, sou nomeado MSLA pela Microsoft e Mozillian Member pela Mozilla, tenho experiências em desenvolvimento JavaScript sendo, front-end com React (NextJS, Gatsby e Frontity) e back-end com NodeJs (NestJS e Fastify) e outros conhecimento como SQL (Postgres, SQl Server e MySql), noSQL (MongoDB), IoT e Infra (AWS S3, EKS, Docker e Docker-compose), crio conteúdos técnicos, palestras e co-organizo as comunidades [Unicorn Tech](https://www.meetup.com/pt-BR/UnicornTech/), [React Life](https://www.meetup.com/pt-BR/ReactLife/), [Fluter Nation](https://www.meetup.com/pt-BR/ReactLife/) e NodeRED Brasil.
 
-<div align="center" >
-    <h2>Área de Interesse: <strong> Tech Lead </strong> </h2>
-</div>
-
 >**Qualificações e formação**
 
 - Faculdades Metropolitanas Unidas – FMU – (Formado)  
