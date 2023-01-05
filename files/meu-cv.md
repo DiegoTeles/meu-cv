@@ -31,8 +31,7 @@ Arquitetura de Soluções
 >**Histórico profissional - Últimos 4 anos**
 
 - Sami Saúde (Abril/2022 - Atualmente)  
-Cargo: Tech Manager
-Responsável pelo gerenciamento do time técnico de 2 squads, criação de PDI, 1:1 e evolução do produto com foco em performance e utilização de design patterns, na liderança dos times: Contratação trabalhando diretamente com o Stakeholder e time técnico e liderança do time de Design System, planejando e desenvolvendo junto ao time a nova arquitetura de DS com Typescript e testes. 
+Trabalhou como Tech Manager, meu trabalho era gerenciar 2 times técnicos, elaborar PDI’s, realizar 1:1 e planejar a evolução do produto com foco em performance e utilização de design patterns, onde eu trabalhava como os times: Contratação trabalhando diretamente com o Stakeholder e PM nas tomadas de decisões e com o time de Design System, planejando e desenvolvendo a nova arquitetura de DS com Typescript e testes em Jest e Storybook. 
 
 - B2W Digital (Maio/2020 - Março/2022)  
 Cargo: Frontend Engineer Senior
